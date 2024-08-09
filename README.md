@@ -72,28 +72,5 @@ The project includes a task where the Phantom Omni is used to control a cursor i
 - **Reaching Task**: The cursor must reach eight targets arranged in a circle, starting from a central target.
 - **Force Fields**: Includes an attractive field towards the target and a viscous field opposing the cursor's velocity.
 
----
-
-<a name="installation-instructions"></a>
-
-## Installation Instructions
-
-To use the PhanTorque libraries with MATLAB/Simulink:
-
-1. **Unzip the Library Files**: Unzip the PhanTorque 3Dof or 6Dof library files.
-2. **Add the Libraries to MATLAB Path**: Place the unzipped folder in your MATLAB directory and add it to the MATLAB path.
-3. **Compile the S-Functions**:
-   - Open MATLAB and navigate to the directory containing the S-function files.
-   - Use the `mex` command to compile the functions. For example:
-     ```matlab
-     mex PhanTorque3Dof.c hd.lib hdu.lib
-     ```
-   - Ensure the OpenHaptics libraries are correctly linked in your `mexopts.bat` file.
-
-4. **Run the Simulink Model**: Load the Simulink model provided and start the simulation to see the Phantom Omni in action.
-
----
-
-<a name="references"></a>
 
 
