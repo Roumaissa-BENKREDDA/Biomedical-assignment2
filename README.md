@@ -96,16 +96,4 @@ To use the PhanTorque libraries with MATLAB/Simulink:
 
 <a name="references"></a>
 
-## References
 
-1. Aldana, C. I., Nuno, E., Basanez, L. "PhanTorque 3Dof and 6Dof Libraries."
-2. OpenHaptics Libraries: [Geomagic OpenHaptics Overview](http://geomagic.com/en/products/open-haptics/overview)
-
----
-
-<a name="appendices"></a>
-
-## Appendices
-
-- [PhanTorque_Lib_Report.pdf](./PhanTorque_Lib_Report.pdf): Detailed report on the PhanTorque libraries.
-- [AssignmentPhantomOmni.pdf](./AssignmentPhantomOmni.pdf): Assignment details for the Phantom Omni project.
