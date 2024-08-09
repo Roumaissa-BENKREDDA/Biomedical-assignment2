@@ -34,7 +34,7 @@ This repository contains materials related to the use of the Phantom Omni device
 
 The Phantom Omni is a 3D haptic device used to interact with virtual environments through tactile feedback. It allows precise control of the end effector in a 3D space and can simulate various physical interactions, making it an excellent tool for research and development in fields like robotics and biomedical engineering.
 
-![Phantom Omni](./img/2omni.png)
+![Phantom Omni](./2omni.png)
 
 ---
 
