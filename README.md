@@ -17,17 +17,6 @@
 >
 > **Submission Date:** [Insert Date]
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Phantom Omni Overview](#phantom-omni-overview)
-3. [PhanTorque Libraries](#phantorque-libraries)
-    * [3Dof Library](#3dof-library)
-    * [6Dof Library](#6dof-library)
-4. [Reaching Task and Force Fields](#reaching-task-and-force-fields)
-5. [Installation Instructions](#installation-instructions)
-6. [References](#references)
-7. [Appendices](#appendices)
 
 ---
 
